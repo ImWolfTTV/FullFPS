@@ -1,0 +1,9 @@
+_G.FPS_Settings = {
+	Graphics = true,
+	Lighting = true,
+	Texture = true,
+	Terrain = true,
+	Effects = false
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImWolfTTV/FPS/main/Fps%20Booster", true))()
